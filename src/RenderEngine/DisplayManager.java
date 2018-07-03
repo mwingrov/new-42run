@@ -1,4 +1,4 @@
-package RenderEngine;
+package renderEngine;
 
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.ContextAttribs;
@@ -21,7 +21,7 @@ public class DisplayManager {
 		try {
 			Display.setDisplayMode(new DisplayMode(WIDTH,HEIGHT));
 			Display.create(new PixelFormat(), attribs);
-			Display.setTitle("Our First Display!");
+			Display.setTitle("42run");
 		} catch (LWJGLException e) {
 			e.printStackTrace();
 		}
