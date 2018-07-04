@@ -1,4 +1,4 @@
-package renderEngine;
+package RenderEngine;
 
 import java.io.FileInputStream;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.nio.IntBuffer;
 import java.util.ArrayList;
 import java.util.List;
 
-import models.RawModel;
+import Models.RawModel;
 
 import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.GL11;

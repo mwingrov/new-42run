@@ -1,16 +1,16 @@
 package engineTester;
 
-import models.RawModel;
-import models.TexturedModel;
+import Models.RawModel;
+import Models.TexturedModel;
 
 import org.lwjgl.opengl.Display;
 import org.lwjgl.util.vector.Vector3f;
 
-import renderEngine.DisplayManager;
-import renderEngine.Loader;
-import renderEngine.Renderer;
+import RenderEngine.DisplayManager;
+import RenderEngine.Loader;
+import RenderEngine.Renderer;
 import shaders.StaticShader;
-import textures.ModelTexture;
+import Textures.ModelTexture;
 import entities.Camera;
 import entities.Entity;
 
@@ -111,7 +111,7 @@ public class MainGameLoop {
 		Camera camera = new Camera();
 		
 		while(!Display.isCloseRequested()){
-			entity.increaseRotation(1, 1, 0);
+			entity.increaseRotation(0, 1, 0);
 			camera.move();
 			renderer.prepare();
 			shader.start();
