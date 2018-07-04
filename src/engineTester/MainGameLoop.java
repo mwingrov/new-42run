@@ -21,7 +21,7 @@ public class MainGameLoop {
 		RawModel model = OBJLoader.loadObjectModel("dragon", loader);
 		MasterRenderer renderer = new MasterRenderer();
 
-		TexturedModel staticModel = new TexturedModel(model, new ModelTexture(loader.loadTexture("")));
+		TexturedModel staticModel = new TexturedModel(model, new ModelTexture(loader.loadTexture("download")));
 		ModelTexture texture = staticModel.getTexture();
 		texture.setShineDamper(10);
 		texture.setReflectivity(1);
