@@ -1,9 +1,9 @@
-package Textures;
+package textures;
 
 public class ModelTexture {
 	
 	private int textureID;
-
+	
 	private float shineDamper = 1;
 	private float reflectivity = 0;
 	
@@ -13,14 +13,6 @@ public class ModelTexture {
 	
 	public int getID(){
 		return textureID;
-	}
-
-	public int getTextureID() {
-		return textureID;
-	}
-
-	public void setTextureID(int textureID) {
-		this.textureID = textureID;
 	}
 
 	public float getShineDamper() {
@@ -38,4 +30,7 @@ public class ModelTexture {
 	public void setReflectivity(float reflectivity) {
 		this.reflectivity = reflectivity;
 	}
+	
+	
+
 }

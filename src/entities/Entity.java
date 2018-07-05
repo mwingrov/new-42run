@@ -1,6 +1,6 @@
 package entities;
 
-import Models.TexturedModel;
+import models.TexturedModel;
 
 import org.lwjgl.util.vector.Vector3f;
 

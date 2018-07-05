@@ -1,4 +1,4 @@
-package RenderEngine;
+package renderEngine;
 
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.ContextAttribs;
