@@ -16,7 +16,7 @@ uniform mat4 viewMatrix;
 uniform vec3 lightPosition;
 
 const float density = 0.003;
-const float gradient = 1.0;
+const float gradient = 3.0;
 
 void main(void){
 

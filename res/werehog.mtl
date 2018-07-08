@@ -1,0 +1,136 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl evil_body.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_spc.png
+
+newmtl evil_cloth.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_spc.png
+
+newmtl evil_ground.002
+Ns 15.686275
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_fur01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_fur01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_fur01_lng.png
+
+newmtl evil_metal.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_spc.png
+refl /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_silver_ref.png
+
+newmtl evil_nail.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_spc.png
+
+newmtl evil_nose.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_spc.png
+
+newmtl evil_sred.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_shoes01_spc.png
+refl /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_red_ref.png
+
+newmtl evil_teeth.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_body01_spc.png
+
+newmtl evil_whiteL.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_spc_G.png
+refl /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_silver_ref.png
+
+newmtl evil_whiteR.002
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_dif.png
+map_Ka /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_dif.png
+map_Ks /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_eye_spc_G.png
+refl /goinfre/mwingrov/Downloads/Xbox 360 - Sonic Unleashed - Sonic the Werehog/chr_evil_silver_ref.png
