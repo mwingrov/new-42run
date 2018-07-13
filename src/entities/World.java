@@ -29,11 +29,7 @@ public class World extends Player{
             this.currentSpeed = RUN_SPEED * 3;
         }
         else if (Keyboard.isKeyDown(Keyboard.KEY_DOWN)) {
-            this.currentSpeed = -RUN_SPEED;
+            this.currentSpeed = 40;
         }
-//        else {
-//            this.currentSpeed = 0;
-//        }
-
     }
 }

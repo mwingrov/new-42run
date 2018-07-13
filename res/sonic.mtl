@@ -1,110 +1,101 @@
 # Blender MTL File: 'None'
 # Material Count: 9
 
-newmtl sonic_gm_body
+newmtl sonic_gm_body.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_body01_dif_HD.dds
 
-newmtl sonic_gm_cloth
+newmtl sonic_gm_cloth.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_cloth_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_cloth_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_cloth_dif_HD.dds
 
-newmtl sonic_gm_eyeL
+newmtl sonic_gm_eyeL.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_eye_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_eye_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_eye_dif_HD.dds
 
-newmtl sonic_gm_eyeR
+newmtl sonic_gm_eyeR.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_eye_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_eye_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_eye_dif_HD.dds
 
-newmtl sonic_gm_mouth
+newmtl sonic_gm_mouth.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_body01_dif_HD.dds
 
-newmtl sonic_gm_nose
+newmtl sonic_gm_nose.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_body01_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_body01_dif_HD.dds
 
-newmtl sonic_gm_shoes_belt
+newmtl sonic_gm_shoes_belt.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_shoes_dif_HD.dds
 
-newmtl sonic_gm_shoes_red
+newmtl sonic_gm_shoes_red.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_shoes_dif_HD.dds
 
-newmtl sonic_gm_shoes_ring
+newmtl sonic_gm_shoes_ring.004
 Ns 0.000000
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Ni 1.000000
 d 1.000000
-illum 2
-map_Kd /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
-map_Ka /goinfre/mwingrov/Downloads/sonic-lost-world-modern-sonic-model/source/Sonic/textures/chr_sonic_shoes_dif.png
+illum 1
+map_Kd /goinfre/mwingrov/Downloads/Sonic Generatios Ripped Animations - Modern Sonic/chr_sonic_shoes_dif_HD.dds
